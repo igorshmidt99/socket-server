@@ -1,4 +1,4 @@
-package org.example.server;
+package org.example.stats;
 
 import java.util.List;
 import java.util.Map;

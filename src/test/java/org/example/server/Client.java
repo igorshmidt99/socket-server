@@ -1,4 +1,4 @@
-package org.example;
+package org.example.server;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

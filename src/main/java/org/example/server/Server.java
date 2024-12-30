@@ -1,5 +1,7 @@
 package org.example.server;
 
+import org.example.stats.StatsUtils;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
